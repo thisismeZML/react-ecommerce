@@ -1,0 +1,1 @@
+export const BaseUrl = "https://fakestoreapi.in/api/products";
